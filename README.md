@@ -1,6 +1,6 @@
 # ForensicWatch
 
-Este proyecto por ahora analiza claves relevantes del registro de Windows para determinar la fecha de su última modificación y verificar si alguna modificación reciente puede ser sospechosa. Aunque esta sujeto a recibir mas funcionalidades
+Este proyecto por ahora analiza claves relevantes del registro de Windows para determinar la fecha de su última modificación y verificar si alguna modificación reciente puede ser sospechosa. También permite comprobar de forma automatica si hay archivos ocultos en los directorios que se le especifique y comprobar si hay logs en el sistema o han sido borrados. Todavía esta sujeto a cambios
 
 ## Requisitos
 
@@ -9,7 +9,7 @@ Este proyecto por ahora analiza claves relevantes del registro de Windows para d
 
 ## Instalación
 
-No se requieren instalaciones adicionales más allá de tener Python 3.x configurado en su sistema.
+Las librerias utilizadas vienen por defecto en python 3.x
 
 ## Uso
 
